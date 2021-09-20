@@ -1,0 +1,45 @@
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.jumbotron {
+    background-image: url(../imagenes/banner.jpg);
+    color: white;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 25px;
+}
+
+footer>a {
+    color: white;
+}
+
+.sidenav {
+    padding-top: 20px;
+    background-color: rgb(226, 223, 223);
+    height: 100%;
+}
+
+#conten {
+    padding: 5px, 25px;
+    margin-top: 25px;
+}
+
+.izq {
+    float: left;
+    margin-right: 10px;
+}
+
+th {
+    background: grey;
+    color: white;
+}
+
+td {
+    vertical-align: top;
+    padding-top: 10px;
+}
